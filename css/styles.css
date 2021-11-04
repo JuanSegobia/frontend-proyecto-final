@@ -1,7 +1,5 @@
-#fondo{    
-    background-image:url("../images/header.png");
+#fondo{   
+    height: 473px;
+    background-image: url("../images/header.png");
 }
 
-.mt-10{
-    margin-top: 40rem;
-}

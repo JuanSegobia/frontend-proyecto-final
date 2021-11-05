@@ -1,5 +1,16 @@
-#fondo{   
-    height: 473px;
-    background-image: url("../images/header.png");
+#fondo-header{   
+    height: auto;
+    background-image: url("../images/background/background.jpg");
 }
-
+.cuadro-header{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+#section-carousel{
+    height: auto;
+    background-image: url("../images/background/background1.jpg");
+}
+.text-dark{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}

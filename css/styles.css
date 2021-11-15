@@ -1,16 +1,19 @@
-#fondo-header{   
-    height: auto;
+body{
     background-image: url("../images/background/background.jpg");
 }
 .cuadro-header{
     margin-top: 200px;
     margin-left: 300px;
 }
-#section-carousel{
-    height: auto;
-    background-image: url("../images/background/background1.jpg");
-}
 .text-dark{
     font-family: 'Montserrat', sans-serif;
     font-size: 25px;
+}
+h1{
+    margin-top: 220px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+}
+#botones{
+    border: 0px;
 }
